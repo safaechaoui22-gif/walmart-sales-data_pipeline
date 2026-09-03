@@ -24,10 +24,11 @@ An end-to-end cloud data integration pipeline built using **Microsoft Azure Data
 
 ## 📸 Pipeline Execution Proof
 
-Here is the successful deployment and pipeline execution (`Opération réussie`):
+Here is the successful execution and pipeline proof:
 
-> *Note: Place your screenshot showing the successful pipeline run or the file inside the `processed-data` container here.*
-> `![Pipeline Execution Success](./screenshots/image_15.png)`
+![Pipeline Success 1](./2.png)
+
+![Container Output](./photo.png)
 
 ---
 
